@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/simple-price-converter/static/css/main.073c9b0a.css",
+    "main.js": "/simple-price-converter/static/js/main.1f2a7acb.js",
+    "static/js/787.a0919fca.chunk.js": "/simple-price-converter/static/js/787.a0919fca.chunk.js",
+    "static/media/united-states-of-america-svgrepo-com 1.svg": "/simple-price-converter/static/media/united-states-of-america-svgrepo-com 1.b64235dbb3dedd371fe379e805fdb63c.svg",
+    "static/media/australia-svgrepo-com 1.svg": "/simple-price-converter/static/media/australia-svgrepo-com 1.02c1afb198c95231157c046f7534f606.svg",
+    "static/media/united-kingdom-svgrepo-com 1.svg": "/simple-price-converter/static/media/united-kingdom-svgrepo-com 1.6d02785c73f9d4cc53ac67fc109c95c0.svg",
+    "static/media/european-union-svgrepo-com 1.svg": "/simple-price-converter/static/media/european-union-svgrepo-com 1.18a30525bf0efa05f6e32e5008201665.svg",
+    "index.html": "/simple-price-converter/index.html",
+    "static/media/canada-svgrepo-com 1.svg": "/simple-price-converter/static/media/canada-svgrepo-com 1.5456e94df98af7eae7364a3f221f065d.svg",
+    "main.073c9b0a.css.map": "/simple-price-converter/static/css/main.073c9b0a.css.map",
+    "main.1f2a7acb.js.map": "/simple-price-converter/static/js/main.1f2a7acb.js.map",
+    "787.a0919fca.chunk.js.map": "/simple-price-converter/static/js/787.a0919fca.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.1f2a7acb.js"
+  ]
+}
